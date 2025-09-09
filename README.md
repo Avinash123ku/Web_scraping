@@ -22,7 +22,7 @@ A robust Python script that scrapes company reviews from Capterra, a popular sof
 1. **Clone or download the script**
    ```bash
    git clone <your-repo-url>
-   cd capterra-review-scraper
+
    ```
 
 2. **Install dependencies**
